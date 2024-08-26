@@ -14,12 +14,15 @@
 데이터 분석 및 모델링(클러스터링 - K-Means, DBScan, GMM, Logistic Regression)
 
 ### 3) 프로젝트 개요
-
+아고다 호텔 리뷰를 분석하는 프로젝트
 
 ### 4) 데이터
-
+아고다 호텔 리뷰 2,000개 크롤링
 
 ### 5) 프로젝트 주요 내용
+[tf-idf 기반 리뷰 클러스터링(K-means, DBscan, GMM)]
+
+[긍부정 분석]
 
 
 
@@ -45,12 +48,13 @@ AI hub, 뉴스 음성, 텍스트 데이터
 
 ### 5) 프로젝트 주요 내용
 **[뉴스 토픽 분류]**
-
+![image](img/bertopic.png)
 
 **[뉴스 키워드 추출(Attention)]**
+![image](attention.png)
 
 **[뉴스 키워드 추출(KeyBert)]**
-
+![image](keybert.png)
 
 
 
@@ -78,10 +82,10 @@ AI 면접에서 지원자의 표정을 분석할 수 있는 서비스
 AI hub 얼굴 표정 데이터 사용
 
 ### 5) 프로젝트 주요 내용
-[이미지 전처리]
+**[이미지 전처리]**
 ![image](img/image_data.png)
 
-[파인튜닝]
+**[파인튜닝]**
 ![image](img/fine_tuning_score.png)
 
 
