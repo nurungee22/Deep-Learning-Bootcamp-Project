@@ -21,9 +21,12 @@
 
 ### 5) 프로젝트 주요 내용
 [tf-idf 기반 리뷰 클러스터링(K-means, DBscan, GMM)]
+![image](img/kmeans_clustering.png)
+![image](img/dbscan_clustering.png)
+![image](img/gmm_clustering.png)
 
 [긍부정 분석]
-
+![image](img/logistic_regression.png)
 
 
 
