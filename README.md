@@ -54,10 +54,10 @@ AI hub, 뉴스 음성, 텍스트 데이터
 ![image](img/bertopic.png)
 
 **[뉴스 키워드 추출(Attention)]**
-![image](attention.png)
+![image](img/attention.png)
 
 **[뉴스 키워드 추출(KeyBert)]**
-![image](keybert.png)
+![image](img/keybert.png)
 
 
 
